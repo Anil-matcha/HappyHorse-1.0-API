@@ -9,6 +9,8 @@ The most comprehensive Python wrapper for the **HappyHorse 1.0 API** (developed 
 
 Join subreddit [HappyHorseAI](https://www.reddit.com/r/HappyHorseAI_) for discussion
 
+Try for free [ArenaAI](https://arena.ai/video)
+
 > 🌊 **Also explore these top AI video models:**
 > - 🎬 [Seedance 2.0 API](https://github.com/Anil-matcha/Seedance-2.0-API) — ByteDance's cinematic 2K model with character sheets, omni-reference & video edit
 > - 🎥 [Veo 4 API](https://github.com/Anil-matcha/Veo-4-API) — Google DeepMind's native 4K model with audio, character consistency & camera controls
